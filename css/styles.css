@@ -1,0 +1,26 @@
+.page-header { 
+    margin-top: 11rem;
+}
+
+.form { 
+    margin-top: 5rem;
+}
+
+
+.gradient { 
+    
+    background: #5b1f00;
+    background: linear-gradient(
+        135deg,
+        #ffffff 0%,
+        #e6b68b 100%
+
+    );
+}
+
+.navbar {
+    background-color: rgb(58, 45, 4);
+    color: aliceblue;
+
+    
+}
